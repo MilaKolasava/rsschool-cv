@@ -4,7 +4,7 @@ Contacts:
 
 tel: +375 29 272-00-00
 email: kolasava.dev@yandex.by
-address: Dzerzhinsk, Belarus
+address: Poland
 Marital status: Single
 Date of birth: 18th April
 Nationality: Belarus
