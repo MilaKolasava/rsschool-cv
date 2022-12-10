@@ -1,1 +1,1 @@
-https://MilaKolasava.github.io/rsschool-cv-2021-2/
+https://MilaKolasava.github.io/rsschool-cv/
