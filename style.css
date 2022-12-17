@@ -23,6 +23,20 @@ body {
   border-radius: 5%;
   background-color: rgb(230, 210, 248);
 }
+
+.block ul {
+  padding-inline-start: 25px;
+}
+
+.contacts {
+  padding: 10px 5px;
+}
+
+.photo {
+  display: flex;
+  align-items: center;
+}
+
 .block:hover {
   z-index: 2;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.4);
