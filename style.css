@@ -22,7 +22,22 @@ body {
   border: 2px solid rgb(104, 45, 156);
   border-radius: 5%;
   background-color: rgb(230, 210, 248);
+  padding: 10px 5px;
 }
+
+.code {
+  margin: 0 auto;
+}
+
+.block ul {
+  padding-inline-start: 25px;
+}
+
+.photo {
+  display: flex;
+  align-items: center;
+}
+
 .block:hover {
   z-index: 2;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.4);
