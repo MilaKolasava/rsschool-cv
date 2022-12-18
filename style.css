@@ -25,6 +25,10 @@ body {
   padding: 10px 5px;
 }
 
+.code {
+  margin: 0 auto;
+}
+
 .block ul {
   padding-inline-start: 25px;
 }
