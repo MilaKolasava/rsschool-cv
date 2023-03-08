@@ -2,9 +2,9 @@ Name and Surname: Luydmila Kolasava
 
 Contacts:
 
-tel: +375 29 272-00-00
-email: kolasava.dev@yandex.by
-address: Poland
+Tel: +375 29 272-00-00
+Email: kolasava.dev@yandex.by
+Address: Poland
 Marital status: Single
 Date of birth: 18th April
 Nationality: Belarus
